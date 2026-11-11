@@ -195,3 +195,6 @@ ros2 launch fire_detect fire_detect.launch.py
 # 方式2：直接运行节点
 ros2 run fire_detect fire_detector_node
 ```
+## 运行效果图
+```
+https://github.com/Xavier-101666/ros2/blob/fire/docs/img/Flame_Recognition_Running_Effect_Diagram.png
